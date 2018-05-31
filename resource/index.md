@@ -4,9 +4,9 @@ title: Resource
 tags: [resource]
 date: 2018-5-31
 ---
+## course
 
-
-## 2017
+## slide
 
 *  <span style="color:navy,font-size:30px">Latent Feature Lasso</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](http://www.cs.cmu.edu/~eyan/publication/LatentFeatureLasso.pdf){: .btn .btn-info}
         [slide](http://www.cs.cmu.edu/~eyan/publication/LFLassoSlide.pdf){: .btn .btn-info}
