@@ -8,7 +8,7 @@ date: 2018-5-31
 ![jekyll Image](assets/img/leopard.jpg)
 {: .image-pull-right}
 
-<center><b>JBlog</b> is a simple jekyll theme.</center>
+<center>Leopards are my favorite animals.</center>
 
 ## About
 
@@ -18,5 +18,5 @@ I have used this theme in my own php and ruby blogs. And there are some shortcom
 If you like this theme or using it, please give a **star** for motivation.
 
 You want to **use it?**      
-
-[Install JBlog](https://github.com/alperenbozkurt/JBlog){: .btn .btn-info}
+## Resume
+[Download](https://github.com/alperenbozkurt/JBlog){: .btn .btn-info}
