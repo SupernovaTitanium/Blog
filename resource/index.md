@@ -8,6 +8,7 @@ date: 2018-5-31
             <h2>112222</h2>
           </div>
           <hr>
+          
 ## 2017
 
 *  <span style="color:navy,font-size:30px">Latent Feature Lasso</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](http://www.cs.cmu.edu/~eyan/publication/LatentFeatureLasso.pdf){: .btn .btn-info}
