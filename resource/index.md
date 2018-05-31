@@ -17,7 +17,3 @@ date: 2018-5-31
      Ian E.H. Yen, <u>Wei-Cheng Lee</u>, Sung-En Chang, Arun S. Suggala, Shou-De Lin and Pradeep Ravikumar.
      <I>In International Conference on Machine Learning <span style="color:navy">(ICML)</span>, 2017.</I>    
 
-<div class="ustr">
-            <h2>112222</h2>
-</div>
-<hr>
