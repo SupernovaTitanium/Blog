@@ -1,6 +1,6 @@
 # Site
 title:          Wei-Cheng's blog
-bio:            'Just a simple Jekyll theme'
+bio:            'Just a simple blog'
 description:    "Basically, I'm not interested in doing research and I never have been. I'm interested in understanding, which is quite a different thing. And often to understand something you have to work it out yourself because no one else has done it."
 picture:        'assets/img/about.jpg'
 locale:         en_US
@@ -23,9 +23,9 @@ sass:
 
 # Social
 # if you don't have any of social below, comment the line.
-#email:
+email: supernovatitanium@gmail.com
 twitter: username
-facebook: username
+facebook: 
 #google:
   #plus: #username
   #analytics:
@@ -33,9 +33,9 @@ facebook: username
   #ad-client:
   #ad-slot:
 #bing-verify:
-github: username
+github: SupernovaTitanium
 stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin: username
+linkedin: Supernovatitanium
 #xing: username
 instagram: username
 lastfm: username
