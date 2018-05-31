@@ -4,6 +4,7 @@ title: "MIPS Nedir"
 date: 2012-05-22
 excerpt: "Mips ve assembly kodları giriş."
 tags: [sample post, readability, test]
+
 ---
 **Mips Nedir ?**
 ===
@@ -54,3 +55,8 @@ add $t0, $s1, $s2
 add $t1, $s3, $s4
 add $s0, $t0, $t1
 {% endhighlight %}
+$$ 
+\begin{aligned} \dot{x} &= \sigma(y-x) \\ 
+\dot{y} &= \rho x - y - xz \\ 
+\dot{z} &= -\beta z + xy \end{aligned} 
+$$
