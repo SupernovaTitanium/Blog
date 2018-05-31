@@ -8,7 +8,7 @@ date: 2018-5-31
 ![leopard](https://supernovatitanium.github.io/Blog/assets/img/leopard.jpg)
 {: .image-pull-right}
 
-<center>Leopards are my favorite animals.</center>
+<center>Leopards are my favorite kind of animals.</center>
 
 ## About
 
