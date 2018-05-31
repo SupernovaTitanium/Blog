@@ -156,16 +156,14 @@ body {
   animation-name: baslik;
   animation-duration: 1.2s;
   animation-fill-mode: forwards;
-    border-style: solid;
-    border-width: 5px;
+
 }
 
 .ortalaAna {
-  width: 1300px;
+  width: 1200px;
   margin-left: auto;
   margin-right: auto;
-    border-style: solid;
-    border-width: 5px;
+  
 }
 
 .yazi, .yaziUzun {
@@ -386,9 +384,7 @@ ul.menuAna {
   animation-name: baslik;
   animation-duration: 1.2s;
   animation-fill-mode: forwards;
-  width: 1000px;
-  border-style: solid;
-  border-width: 5px;
+  width: 750px;
   li {
     float: left;
   }
