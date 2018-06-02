@@ -32,6 +32,7 @@ date: 2018-5-31
 
 
 ## Slide
+  Here are some papers I wrote slides to summarize it.
 
   * <span style="color:navy">Latent Feature Model</span>
     
@@ -47,6 +48,6 @@ date: 2018-5-31
   
   * <span style="color:navy">Bayesain Optimization</span>
 
-    * Neural Architecture Search with Bayesian Optimisation and Optimal Transport. [paper](https://arxiv.org/pdf/1802.07191.pdf){: .btn .btn-info target="_blank"}&nbsp;&nbsp;[slide]({{site.url}}/assets/slide/Neural_Architecture_Search_via_Optimal_Transport.pdf){: .btn .btn-info target="_blank"}  
+    * Neural Architecture Search with Bayesian Optimisation and Optimal Transport (With part of NIPS 2017 Optimal Transport Tutorial). [paper](https://arxiv.org/pdf/1802.07191.pdf){: .btn .btn-info target="_blank"}&nbsp;&nbsp;[tutorial](https://www.dropbox.com/s/55tb2cf3zipl6xu/aprimeronOT.pdf?dl=0){: .btn .btn-info target="_blank"}  &nbsp;&nbsp;[slide]({{site.url}}/assets/slide/Neural_Architecture_Search_via_Optimal_Transport.pdf){: .btn .btn-info target="_blank"}  
 
 
