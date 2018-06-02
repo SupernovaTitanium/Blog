@@ -18,7 +18,7 @@ date: 2018-5-31
 ## CV
 [Click me]({{site.url}}/assets/download/CV.pdf){: .btn .btn-info target="_blank"}
 
-<center>Leopards are my favorite kind of animals. I hope that one day I can gentaly touch and hug it.</center>
+<center>Leopards are my favorite kind of animals. I hope that one day I can gentaly touch and hug them.</center>
 
 ![leopard]({{site.url}}/assets/img/leopard.jpg)
 {: .image-pull-right}
