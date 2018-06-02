@@ -35,18 +35,18 @@ date: 2018-5-31
 
   * <span style="color:navy">Latent Feature Model</span>
     
-    * Latent Feature Lasso. [paper](http://www.cs.cmu.edu/~eyan/publication/LatentFeatureLasso.pdf){: .btn .btn-info target="_blank"}[slide]({{site.url}}/assets/slide/LatentFeatureLasso_self_slide.pdf){: .btn .btn-info target="_blank"}
+    * Latent Feature Lasso. [paper](http://www.cs.cmu.edu/~eyan/publication/LatentFeatureLasso.pdf){: .btn .btn-info target="_blank"}&nbsp;&nbsp;[slide]({{site.url}}/assets/slide/LatentFeatureLasso_self_slide.pdf){: .btn .btn-info target="_blank"}
 
   * <span style="color:navy">Information Theoretical Tools</span>
 
-    * Information-Theoretic Lower Bounds on the Oracle Complexity of Stochastic Convex Optimization. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6142067){: .btn .btn-info target="_blank"}[slide]({{site.url}}/assets/slide/information-theoretic_lower_bounds_on_the_oracle_complexity_of_convex_optimization_slide.pdf){: .btn .btn-info target="_blank"}
+    * Information-Theoretic Lower Bounds on the Oracle Complexity of Stochastic Convex Optimization. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6142067){: .btn .btn-info target="_blank"}&nbsp;&nbsp;[slide]({{site.url}}/assets/slide/information-theoretic_lower_bounds_on_the_oracle_complexity_of_convex_optimization_slide.pdf){: .btn .btn-info target="_blank"}
 
   * <span style="color:navy">Interpretable Machine Learning</span>
 
-    * Understanding Black-box Predictions via Influence Functions. [paper](https://arxiv.org/pdf/1703.04730.pdf){: .btn .btn-info target="_blank"}[slide]({{site.url}}/assets/slide/Understanding_Black_box_Presentation.pdf){: .btn .btn-info target="_blank"}
+    * Understanding Black-box Predictions via Influence Functions. [paper](https://arxiv.org/pdf/1703.04730.pdf){: .btn .btn-info target="_blank"}&nbsp;&nbsp;[slide]({{site.url}}/assets/slide/Understanding_Black_box_Presentation.pdf){: .btn .btn-info target="_blank"}
   
   * <span style="color:navy">Bayesain Optimization</span>
 
-    * Neural Architecture Search with Bayesian Optimisation and Optimal Transport. [paper](https://arxiv.org/pdf/1802.07191.pdf){: .btn .btn-info target="_blank"}[slide]({{site.url}}/assets/slide/Neural_Architecture_Search_via_Optimal_Transport.pdf){: .btn .btn-info target="_blank"}  
+    * Neural Architecture Search with Bayesian Optimisation and Optimal Transport. [paper](https://arxiv.org/pdf/1802.07191.pdf){: .btn .btn-info target="_blank"}&nbsp;&nbsp;[slide]({{site.url}}/assets/slide/Neural_Architecture_Search_via_Optimal_Transport.pdf){: .btn .btn-info target="_blank"}  
 
 
