@@ -10,7 +10,7 @@ date: 2018-5-31
    * Machine Learrning
       
    * Mathematical
-    <font color="navy">Analysis [齊震宇].</font><a href=http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/105S107>[course]</a>
+    <span style="color:navy> Analysis</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [齊震宇](http://www3.math.ntu.edu.tw/people/bio.php?PID=3447){: .btn .btn-info}[course](http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/105S107){: .btn .btn-info}
    * Chemistry
    * Psychology
 
