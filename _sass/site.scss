@@ -882,6 +882,7 @@ ul.menu {
 		display: none;
 	}
 	.baslik {
-		margin-top: $top-margin-mobile;
+    margin-top: $top-margin-mobile;
+    height: 200px;
 	}
 }
