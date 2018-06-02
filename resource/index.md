@@ -22,7 +22,7 @@ date: 2018-5-31
 
    * <span style="color:navy">Chemistry</span>
 
-      * Real Analysis &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Yeun-Min Tsai](https://www.ch.ntu.edu.tw/~ymtsai/English.htm){: .btn .btn-info}&nbsp;&nbsp;[course](http://ocw.aca.ntu.edu.tw/ntu-ocw/index.php/ocw/cou/103S115){: .btn .btn-info}
+      * General Chemistry &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Yeun-Min Tsai](https://www.ch.ntu.edu.tw/~ymtsai/English.htm){: .btn .btn-info}&nbsp;&nbsp;[course](http://ocw.aca.ntu.edu.tw/ntu-ocw/index.php/ocw/cou/103S115){: .btn .btn-info}
 
    * <span style="color:navy">Psychology</span>
 
