@@ -10,7 +10,7 @@ date: 2018-5-31
   * <span style="color:navy">Machine Learning</span>
       * Mathematical Principles of Machine Learning &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [I-Hsiang Wang](http://cc.ee.ntu.edu.tw/~ihsiangw/){: .btn .btn-info}&nbsp;&nbsp;[course](http://homepage.ntu.edu.tw/~ihwang/Teaching/Sp18/MPML.html){: .btn .btn-info}
 
-      * Statistical Machine Learning &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Ryan Tibshirani](http://www.stat.cmu.edu/~ryantibs/)&nbsp;&nbsp;[Larry Wasserman](http://www.stat.cmu.edu/~larry/){: .btn .btn-info}&nbsp;&nbsp;[course](http://www.stat.cmu.edu/~ryantibs/statml/){: .btn .btn-info}
+      * Statistical Machine Learning &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Ryan Tibshirani](http://www.stat.cmu.edu/~ryantibs/){: .btn .btn-info}&nbsp;&nbsp;[Larry Wasserman](http://www.stat.cmu.edu/~larry/){: .btn .btn-info}&nbsp;&nbsp;[course](http://www.stat.cmu.edu/~ryantibs/statml/){: .btn .btn-info}
 
       * Convex Optimization &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Ryan Tibshirani](http://www.stat.cmu.edu/~ryantibs/){: .btn .btn-info}&nbsp;&nbsp;[course]http://www.stat.cmu.edu/~ryantibs/convexopt/){: .btn .btn-info}
       
