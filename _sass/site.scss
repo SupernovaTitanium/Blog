@@ -790,10 +790,7 @@ ul.menu {
 		color: $main-color;
 	  height: 200px;
     z-index: 2;
-         border-style: solid;
-    border-width: 5px;
-    border-color:#ac286a;
-		text-shadow: 1px 1px 2px rgba(81, 81, 81, 0.3) !important;
+  	text-shadow: 1px 1px 2px rgba(81, 81, 81, 0.3) !important;
 		&:hover{
 			cursor: pointer;
 		  text-shadow: 1px 1px 4px rgba(81, 81, 81, 1) !important;
@@ -810,10 +807,7 @@ ul.menu {
 		z-index: 1;
 		background-color: $main-color;
     box-shadow: 0px 0px 20px 2px rgba(71, 71, 71, 1);
-       border-style: solid;
-    border-width: 5px;
-    border-color:#d35400;
-	}
+  }
 	ul.menu {
 	  font-size: 28px;
 		margin-left: 20px;
@@ -823,10 +817,7 @@ ul.menu {
 	  list-style: none;
 		float: left;
     height: 100px;
-      border-style: solid;
-    border-width: 5px;
-    border-color: red;
-	  li {
+   li {
 	    display: block;
 	    a {
 	      padding: 10px;
