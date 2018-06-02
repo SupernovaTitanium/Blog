@@ -37,7 +37,7 @@ date: 2018-5-31
     
     * Latent Feature Lasso. [paper](http://www.cs.cmu.edu/~eyan/publication/LatentFeatureLasso.pdf){: .btn .btn-info target="_blank"}[slide]({{site.url}}/assets/slide/LatentFeatureLasso_self_slide.pdf){: .btn .btn-info target="_blank"}
 
-  * <span style="color:navy">Information Theoretical Tool</span>
+  * <span style="color:navy">Information Theoretical Tools</span>
 
     * Information-Theoretic Lower Bounds on the Oracle Complexity of Stochastic Convex Optimization. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6142067){: .btn .btn-info target="_blank"}[slide]({{site.url}}/assets/slide/information-theoretic_lower_bounds_on_the_oracle_complexity_of_convex_optimization_slide.pdf){: .btn .btn-info target="_blank"}
 
