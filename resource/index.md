@@ -12,7 +12,7 @@ date: 2018-5-31
 
       * Statistical Machine Learning &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Ryan Tibshirani](http://www.stat.cmu.edu/~ryantibs/){: .btn .btn-info}&nbsp;&nbsp;[Larry Wasserman](http://www.stat.cmu.edu/~larry/){: .btn .btn-info}&nbsp;&nbsp;[course](http://www.stat.cmu.edu/~ryantibs/statml/){: .btn .btn-info}
 
-      * Convex Optimization &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Ryan Tibshirani](http://www.stat.cmu.edu/~ryantibs/){: .btn .btn-info}&nbsp;&nbsp;[course]http://www.stat.cmu.edu/~ryantibs/convexopt/){: .btn .btn-info}
+      * Convex Optimization &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Ryan Tibshirani](http://www.stat.cmu.edu/~ryantibs/){: .btn .btn-info}&nbsp;&nbsp;[course](http://www.stat.cmu.edu/~ryantibs/convexopt/){: .btn .btn-info}
       
   * <span style="color:navy">Mathematics</span>
 
