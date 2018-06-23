@@ -22,6 +22,10 @@ date: 2018-5-31
 
       * Real Analysis &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Fon-Che Liu](http://www.math.sinica.edu.tw/www/file_upload/maliufc/maliufc-e.htm){: .btn .btn-info target="_blank"}&nbsp;&nbsp;[course](http://ocw.aca.ntu.edu.tw/ntu-ocw/index.php/ocw/cou/105S109){: .btn .btn-info target="_blank"}
 
+      * Functional Analysis &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Percy Deift](ttps://www.math.nyu.edu/faculty/deift/){: .btn .btn-info target="_blank"}&nbsp;&nbsp;[course](https://www.math.nyu.edu/faculty/deift/){: .btn .btn-info target="_blank"}
+
+      * Random Matrix Theory &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Percy Deift](ttps://www.math.nyu.edu/faculty/deift/){: .btn .btn-info target="_blank"}&nbsp;&nbsp;[course](https://www.math.nyu.edu/faculty/deift/){: .btn .btn-info target="_blank"}
+
    * <span style="color:navy">Chemistry</span>
 
       * General Chemistry &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Yeun-Min Tsai](https://www.ch.ntu.edu.tw/~ymtsai/English.htm){: .btn .btn-info target="_blank"}&nbsp;&nbsp;[course](http://ocw.aca.ntu.edu.tw/ntu-ocw/index.php/ocw/cou/103S115){: .btn .btn-info target="_blank"}
