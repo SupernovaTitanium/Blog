@@ -1,6 +1,8 @@
+# [Website](https://supernovatitanium.github.io/website/?fbclid=IwAR0i5ehscat4dQDQ2h45wNNxYbW-3f2kjoBj4hstcF8Ivzv3dxknGF5tqwA)
+
 # JBlog Jekyll Theme
 
-**[Website](https://supernovatitanium.github.io/website/?fbclid=IwAR0i5ehscat4dQDQ2h45wNNxYbW-3f2kjoBj4hstcF8Ivzv3dxknGF5tqwA)** is a simple jekyll theme.
+**[JBlog](http://alperenbozkurt.net/JBlog/)** is a simple jekyll theme.
 
 I have used this theme in my own php and ruby blogs. And there are some shortcomings. If something looks extremely ugly and you can't resist to fix it, just send me a PR. I will be grateful.
 
