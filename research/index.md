@@ -15,5 +15,14 @@ date: 2018-5-31
 
      Ian E.H. Yen, <u>Wei-Cheng Lee</u>, Sung-En Chang, Arun S. Suggala, Shou-De Lin and Pradeep Ravikumar.
      <I>In International Conference on Machine Learning <span style="color:navy">(ICML)</span>, 2017.</I>    
-   
+
+## 2018
+## 2017
+
+*  <span style="color:navy,font-size:30px">MixLasso: Generalized Mixed Regression via Convex Atomic-Norm Regularization.</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[pdf](https://papers.nips.cc/paper/8284-mixlasso-generalized-mixed-regression-via-convex-atomic-norm-regularization){: .btn .btn-info target="_blank"}
+
+        [poster](https://www.dropbox.com/s/jfbh0xrqvdf5yu5/MRLPoster_NIPS.pdf?dl=0){: .btn .btn-info target="_blank"}
+
+     Ian E.H. Yen, <u>Wei-Cheng Lee</u>, Kai Zhong, Sung-En Chang, Pradeep Ravikumar and Shou-De Lin.
+     <I>In Advances in Neural Information Processing Systems <span style="color:navy">(NIPS)</span>, 2018.</I>    
      
