@@ -24,8 +24,8 @@ sass:
 # Social
 # if you don't have any of social below, comment the line.
 email: weicheng.Lee.Frank@gmail.com
-twitter:  https://twitter.com/WeiChengLee2
-facebook: https://www.facebook.com/lightlighting
+twitter:  WeiChengLee2
+facebook: lightlighting
 #google:
   #plus: #username
   #analytics:
@@ -33,9 +33,9 @@ facebook: https://www.facebook.com/lightlighting
   #ad-client:
   #ad-slot:
 #bing-verify:
-github: https://github.com/SupernovaTitanium
+github: SupernovaTitanium
 #stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin: https://www.linkedin.com/in/supernovatitanium/
+linkedin: supernovatitanium/
 #xing: username
 #instagram: username
 #lastfm: username
