@@ -11,7 +11,7 @@ date: 2019-11-06
 
   * <span style="color:navy">Latent Feature Model</span>
     
-    * Latent Feature Lasso. [paper](http://www.cs.cmu.edu/~eyan/publication/LatentFeatureLasso.pdf){: .btn .btn-info target="_blank"}&nbsp;&nbsp;[slide]({{site.url}}/assets/slide/LatentFeatureLasso_self_slide.pdf){: .btn .btn-info target="_blank"}
+    * Latent Feature Lasso. [paper](http://www.cs.cmu.edu/~eyan/publication/LatentFeatureLasso.pdf){: .btn .btn-info target="_blank"}&nbsp;&nbsp;[slide](){: .btn .btn-info target="_blank"}
 
   * <span style="color:navy">Information Theoretical Tools</span>
 
@@ -23,6 +23,6 @@ date: 2019-11-06
   
   * <span style="color:navy">Bayesain Optimization</span>
 
-    * Neural Architecture Search with Bayesian Optimisation and Optimal Transport (With part of NIPS 2017 Optimal Transport Tutorial). [paper](https://arxiv.org/pdf/1802.07191.pdf){: .btn .btn-info target="_blank"}&nbsp;&nbsp;[tutorial](https://www.dropbox.com/s/55tb2cf3zipl6xu/aprimeronOT.pdf?dl=0){: .btn .btn-info target="_blank"}  &nbsp;&nbsp;[slide]({{site.url}}/assets/slide/Neural_Architecture_Search_via_Optimal_Transport.pdf){: .btn .btn-info target="_blank"}  
+    * Neural Architecture Search with Bayesian Optimisation and Optimal Transport (With part of NIPS 2017 Optimal Transport Tutorial). [paper](https://arxiv.org/pdf/1802.07191.pdf){: .btn .btn-info target="_blank"}&nbsp;&nbsp;[Optimal Transport tutorial](https://www.dropbox.com/s/55tb2cf3zipl6xu/aprimeronOT.pdf?dl=0){: .btn .btn-info target="_blank"}  &nbsp;&nbsp;[slide_paper]({{site.url}}/assets/slide/Neural_Architecture_Search_via_Optimal_Transport.pdf){: .btn .btn-info target="_blank"} &nbsp;&nbsp; [slide_Bayesian Optimization]({{site.url}}/assets/slide/MPML_final_presentation.pdf){: .btn .btn-info target="_blank"} 
 
 
