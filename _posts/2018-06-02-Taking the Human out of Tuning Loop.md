@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Taking the Human out of Tuning loop"
-image: "https://github.com/SupernovaTitanium/website/blob/master/assets/img/Bayesian_Optimization/hyperparameter-32-b.png"
+image: "https://raw.githubusercontent.com/SupernovaTitanium/website/master/assets/img/Bayesian_Optimization/hyperparameter-32-b.png"
 date:   2018-06-02
 excerpt: "Review of Bayesian Optimization with theories and experiments."
 project: true
