@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Taking the Human out of Tuning loop"
-image: "https://mslab.csie.ntu.edu.tw/~supernova/hyperparameter-32-b.png"
+image: "../image/taking_the_human_out_of_tuuning_loop.png"
 date:   2018-06-02
 excerpt: "Review of Bayesian Optimization with theories and experiments."
 project: true
